@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import "./components/style.css"
 
 function App() {
   const initialValues = { username: "", email: "", password: "" };
